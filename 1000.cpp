@@ -6,4 +6,5 @@ int main() {
 	string s;
 	s = "Hello world";
 	cout << s;
+	//
 }
